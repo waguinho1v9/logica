@@ -1,5 +1,5 @@
 /**
- * @author Wagner
+ * @author Wagner Bento
  */
 function calcularvalor() {
     let salario, custo, hora, carga
