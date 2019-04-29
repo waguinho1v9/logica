@@ -1,6 +1,6 @@
 /**
  * Cálculo do IMC
- * @author Professor José de Assis
+ * @author Wagner Bento
  */
 
  function calcularImc(){
