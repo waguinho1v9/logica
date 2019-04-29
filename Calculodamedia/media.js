@@ -1,6 +1,6 @@
 /**
  * Cálculo da media
- * @author Thales Durães de Lima
+ * @author Wagner Bento
  */
 
  function calcularMedia(){
