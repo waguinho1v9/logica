@@ -1,6 +1,6 @@
 /** 
  * Estudo da estrutura switch case
- * @author Wagner Santo
+ * @author Wagner Bento
  */
 // a linha abaixo gera um numero aleatorio entre 0 e 5
 // Math.floor (converte para numero inteiro)
