@@ -1,6 +1,6 @@
 /** 
  * Estudo do laço for - Tabuada completa
- * @author Wagner Santo
+ * @author Wagner Bento
  */
 
  let valor = 7
